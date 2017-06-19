@@ -6,6 +6,6 @@
 
 <body>
   <h1>home</h1>
-  <input type="button" onclick="location.href='send_form.html'" value="send">
-  <input type="button" onclick="location href='show_form.html'" value="show">
+  <input type="button" onclick="location.href='send_form.php'" value="send">
+  <input type="button" onclick="location href='show_form.php'" value="show">
 </body>
